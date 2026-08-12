@@ -10,9 +10,9 @@ I’m a product-minded full-stack engineer focused on operational software, data
 | [StackCRM](https://github.com/moriana55/stackcrm) | RBAC, booking, installment, and business-workflow modeling in a full-stack CRM | Local verification: 20/20 tests |
 | [CryptoFlowCheck](https://github.com/moriana55/cryptoflowcheck) | Market-data workflows, Stripe-backed subscription identity, and a TypeScript dashboard | Local verification: 31/31 tests |
 | [EmlakAklı](https://github.com/moriana55/emlakakli) | Real-estate intelligence with deterministic scoring, generated routes, and explicit data fallbacks | Local verification: 95/95 tests |
-| [NocturnDev](https://github.com/moriana55/nocturndev) | Evidence-led case-study presentation, responsive web craft, and a fail-closed contact boundary | Local verification: 5/5 tests |
+| [Nocturn Suite](https://github.com/moriana55/nocturndev) | Early-access product storytelling, canvas interaction, multi-page web craft, and fail-closed lead delivery | Local verification: 28/28 tests |
 
-Verification snapshot: 2026-08-13. The five selected repositories pass their documented production builds and dependency audits, with 217 focused tests passing in total. Public CI becomes the source of truth after the prepared commits are pushed.
+Verification snapshot: 2026-08-13. The five selected repositories pass their documented production builds and dependency audits, with 240 focused tests passing in total. Public CI is the source of truth for every pushed revision.
 
 ## How I work
 
