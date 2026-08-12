@@ -11,8 +11,9 @@ I’m a product-minded full-stack engineer focused on operational software, data
 | [CryptoFlowCheck](https://github.com/moriana55/cryptoflowcheck) | Market-data workflows, Stripe-backed subscription identity, and a TypeScript dashboard | Public CI: 31/31 tests |
 | [EmlakAklı](https://github.com/moriana55/emlakakli) | Real-estate intelligence with deterministic scoring, generated routes, and explicit data fallbacks | Public CI: 95/95 tests |
 | [Nocturn Suite](https://github.com/moriana55/nocturndev) | Early-access product storytelling, canvas interaction, multi-page web craft, and fail-closed lead delivery | Public CI: 28/28 tests |
+| [GelecekFinans](https://github.com/moriana55/gelecekfinans) | Review-gated AI publishing, third-party market adapters, and signed double opt-in newsletters | Public CI: 11/11 tests |
 
-Verification snapshot: 2026-08-13. The five selected repositories pass their documented production builds and dependency audits, with 240 focused tests passing in total. Public CI is the source of truth for every pushed revision.
+Verification snapshot: 2026-08-13. The six selected repositories pass their documented production builds and dependency audits, with 251 focused tests passing in total. Public CI is the source of truth for every pushed revision.
 
 ## How I work
 
