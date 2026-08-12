@@ -6,14 +6,13 @@ I’m a product-minded full-stack engineer focused on operational software, data
 
 | Project | What it demonstrates | Status |
 | --- | --- | --- |
-| [Railway Control Plane](https://github.com/moriana55/railway-control-plane) | Typed async workflows, a server-only Railway adapter, idempotency, failure states, and an evidence-led operator UI | Local verification: 3/3 tests |
 | [Terralot v2](https://github.com/moriana55/terralot-v2) | GIS-oriented product engineering, underwriting workflows, and a multi-app real-estate monorepo | Local verification: 66/66 tests |
 | [StackCRM](https://github.com/moriana55/stackcrm) | RBAC, booking, installment, and business-workflow modeling in a full-stack CRM | Local verification: 20/20 tests |
 | [CryptoFlowCheck](https://github.com/moriana55/cryptoflowcheck) | Market-data workflows, Stripe-backed subscription identity, and a TypeScript dashboard | Local verification: 31/31 tests |
 | [EmlakAklı](https://github.com/moriana55/emlakakli) | Real-estate intelligence with deterministic scoring, generated routes, and explicit data fallbacks | Local verification: 95/95 tests |
 | [NocturnDev](https://github.com/moriana55/nocturndev) | Evidence-led case-study presentation, responsive web craft, and a fail-closed contact boundary | Local verification: 5/5 tests |
 
-Verification snapshot: 2026-08-13. The six selected repositories pass their documented production builds and dependency audits, with 220 focused tests passing in total. Public CI becomes the source of truth after the prepared commits are pushed.
+Verification snapshot: 2026-08-13. The five selected repositories pass their documented production builds and dependency audits, with 217 focused tests passing in total. Public CI becomes the source of truth after the prepared commits are pushed.
 
 ## How I work
 
@@ -30,4 +29,4 @@ Verification snapshot: 2026-08-13. The six selected repositories pass their docu
 - Explicit distinctions between implemented behavior, demo adapters, proposed scope, and measured results.
 - Desktop/mobile visual evidence where interface quality is central to the case study.
 
-The current flagship is Railway Control Plane: a deploy/restart/stop interface where success appears only after the expected infrastructure state is observed. You can review the work through the repositories above or reach me through [GitHub](https://github.com/moriana55).
+The current flagship is TerraLot: a multi-application real-estate platform spanning underwriting, acquisition workflows, maps, and storefront delivery. You can review the work through the repositories above or reach me through [GitHub](https://github.com/moriana55).
