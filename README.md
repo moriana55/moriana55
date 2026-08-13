@@ -6,13 +6,14 @@ I’m a product-minded full-stack engineer focused on operational software, data
 
 | Project | What it demonstrates | Status |
 | --- | --- | --- |
-| [Terralot v2](https://github.com/moriana55/terralot-v2) | GIS-oriented product engineering, underwriting workflows, and a multi-app real-estate monorepo | Public CI: 66/66 tests |
+| [Engineering Skills](https://github.com/moriana55/engineering-skills) | 14 evidence-first Codex skills with dependency-free scanners, fixtures, and reproducible review workflows | Public CI: 19/19 tests |
+| [Terralot v2](https://github.com/moriana55/terralot-v2) | GIS-oriented product engineering, underwriting workflows, and a multi-app real-estate monorepo | Public CI: 69/69 tests |
 | [StackCRM](https://github.com/moriana55/stackcrm) | RBAC, booking, installment, and business-workflow modeling in a full-stack CRM | Public CI: 20/20 tests |
-| [CryptoFlowCheck](https://github.com/moriana55/cryptoflowcheck) | Market-data workflows, Stripe-backed subscription identity, and a TypeScript dashboard | Public CI: 31/31 tests |
-| [EmlakAklı](https://github.com/moriana55/emlakakli) | Real-estate intelligence with deterministic scoring, generated routes, and explicit data fallbacks | Public CI: 95/95 tests |
+| [CryptoFlowCheck](https://github.com/moriana55/cryptoflowcheck) | Market-data workflows, Stripe-backed subscription identity, and a TypeScript dashboard | Public CI: 35/35 tests |
+| [EmlakAklı](https://github.com/moriana55/emlakakli) | Real-estate intelligence with deterministic scoring, generated routes, and explicit data fallbacks | Public CI: 97/97 tests |
 | [Nocturn Suite](https://github.com/moriana55/nocturndev) | Early-access product storytelling, canvas interaction, multi-page web craft, and fail-closed lead delivery | Public CI: 28/28 tests |
 
-Verification snapshot: 2026-08-13. The five selected repositories pass their documented production builds and dependency audits, with 240 focused tests passing in total. Public CI is the source of truth for every pushed revision.
+Verification snapshot: 2026-08-13. The six selected repositories pass their documented validation workflows, with 268 focused tests passing in total. The five web products also pass production builds and dependency audits. Public CI is the source of truth for every pushed revision; GitHub CodeQL currently reports zero open alerts across all six repositories.
 
 ## How I work
 
