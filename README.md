@@ -6,14 +6,14 @@ I’m a product-minded full-stack engineer focused on operational software, data
 
 | Project | What it demonstrates | Status |
 | --- | --- | --- |
-| [Engineering Skills](https://github.com/moriana55/engineering-skills) | 14 evidence-first Codex skills with dependency-free scanners, fixtures, and reproducible review workflows | Public CI: 19/19 tests |
+| [ClinEntra](https://github.com/moriana55/clinentra) | Evidence-linked clinical-trial monitoring, tenant-scoped operational review, backups, delivery gates, and explicit product boundaries | `npm run ci`: 19 verification flows + build |
+| [VoiceOps Studio](https://github.com/moriana55/voiceops-studio) | Ten-locale voice operations, provider fallbacks, signed telephony, consented records, quotas, and white-label readiness | 27 tests + type-check + build |
+| [Engineering Skills](https://github.com/moriana55/engineering-skills) | Fourteen evidence-first Codex skills with deterministic scanners, fixtures, CI, and claim boundaries | 19 unit tests |
 | [Terralot v2](https://github.com/moriana55/terralot-v2) | GIS-oriented product engineering, underwriting workflows, and a multi-app real-estate monorepo | Public CI: 69/69 tests |
-| [StackCRM](https://github.com/moriana55/stackcrm) | RBAC, booking, installment, and business-workflow modeling in a full-stack CRM | Public CI: 20/20 tests |
-| [CryptoFlowCheck](https://github.com/moriana55/cryptoflowcheck) | Market-data workflows, Stripe-backed subscription identity, and a TypeScript dashboard | Public CI: 35/35 tests |
 | [EmlakAklı](https://github.com/moriana55/emlakakli) | Real-estate intelligence with deterministic scoring, generated routes, and explicit data fallbacks | Public CI: 97/97 tests |
 | [Nocturn Suite](https://github.com/moriana55/nocturndev) | Early-access product storytelling, canvas interaction, multi-page web craft, and fail-closed lead delivery | Public CI: 28/28 tests |
 
-Verification snapshot: 2026-08-13. The six selected repositories pass their documented validation workflows, with 268 focused tests passing in total. The five web products also pass production builds and dependency audits. Public CI is the source of truth for every pushed revision; GitHub CodeQL currently reports zero open alerts across all six repositories.
+Verification snapshot: 2026-08-15. ClinEntra, VoiceOps Studio, and Engineering Skills were reproduced locally using their documented validation commands. The remaining counts come from current public CI; public CI remains the source of truth for pushed revisions.
 
 ## How I work
 
@@ -30,4 +30,4 @@ Verification snapshot: 2026-08-13. The six selected repositories pass their docu
 - Explicit distinctions between implemented behavior, demo adapters, proposed scope, and measured results.
 - Desktop/mobile visual evidence where interface quality is central to the case study.
 
-The current flagship is TerraLot: a multi-application real-estate platform spanning underwriting, acquisition workflows, maps, and storefront delivery. You can review the work through the repositories above or reach me through [GitHub](https://github.com/moriana55).
+The current flagship is ClinEntra: an evidence-first clinical-trial intelligence pilot that keeps source provenance attached to operational review. Explore the projects above, view my [portfolio](https://moriana55.github.io/yigit-portfolio/), or reach me through [LinkedIn](https://www.linkedin.com/in/yigiterturk/).
