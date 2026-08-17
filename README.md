@@ -6,15 +6,15 @@ I’m a product-minded full-stack engineer focused on operational software, data
 
 | Project | What it demonstrates | Status |
 | --- | --- | --- |
-| [ClinEntra](https://github.com/moriana55/clinentra) | Evidence-linked clinical-trial monitoring, tenant-scoped operational review, backups, delivery gates, and explicit product boundaries | `npm run ci`: 19 verification flows + build |
-| [VoiceOps Studio](https://github.com/moriana55/voiceops-studio) | Ten-locale voice operations, provider fallbacks, signed telephony, consented records, quotas, and white-label readiness | 27 tests + type-check + build |
-| [LLM Output Contract](https://github.com/moriana55/llm-output-contract) | Provider-independent extraction, bounded structural guards, and JSON Schema validation for untrusted model text | 9 tests + type-check + build; public CI green |
-| [ProofRepo](https://github.com/moriana55/proofrepo) | Evidence-first repository showcase audit with Markdown/JSON output and explicit claim boundaries | 3 tests + type-check + build; public CI green |
-| [SecretProof](https://github.com/moriana55/secretproof) | Local-first worktree, staged, and history secret scanning with redacted fingerprints, allowlists, SARIF, and pre-commit support | 8 tests + type-check + build; public CI green |
-| [Engineering Skills](https://github.com/moriana55/engineering-skills) | Fourteen evidence-first Codex skills with deterministic scanners, fixtures, CI, and claim boundaries | 19 unit tests |
-| [Terralot v2](https://github.com/moriana55/terralot-v2) | GIS-oriented product engineering, underwriting workflows, and a multi-app real-estate monorepo | Public CI: 69/69 tests |
-| [EmlakAklı](https://github.com/moriana55/emlakakli) | Real-estate intelligence with deterministic scoring, generated routes, and explicit data fallbacks | Public CI: 97/97 tests |
-| [Nocturn Suite](https://github.com/moriana55/nocturndev) | Early-access product storytelling, canvas interaction, multi-page web craft, and fail-closed lead delivery | Public CI: 28/28 tests |
+| ClinEntra (private pilot) | Evidence-linked clinical-trial monitoring, tenant-scoped operational review, backups, delivery gates, and explicit product boundaries | `npm run ci`: 19 verification flows + build |
+| [VoiceOps Studio](https://github.com/yigiterturk-dev/voiceops-studio) | Ten-locale voice operations, provider fallbacks, signed telephony, consented records, quotas, and white-label readiness | 27 tests + type-check + build |
+| [LLM Output Contract](https://github.com/yigiterturk-dev/llm-output-contract) | Provider-independent extraction, bounded structural guards, and JSON Schema validation for untrusted model text | 9 tests + type-check + build; public CI green |
+| [ProofRepo](https://github.com/yigiterturk-dev/proofrepo) | Evidence-first repository showcase audit with Markdown/JSON output and explicit claim boundaries | 3 tests + type-check + build; public CI green |
+| [SecretProof](https://github.com/yigiterturk-dev/secretproof) | Local-first worktree, staged, and history secret scanning with redacted fingerprints, allowlists, SARIF, and pre-commit support | 8 tests + type-check + build; public CI green |
+| [Engineering Skills](https://github.com/yigiterturk-dev/engineering-skills) | Fourteen evidence-first Codex skills with deterministic scanners, fixtures, CI, and claim boundaries | 19 unit tests |
+| [Terralot v2](https://github.com/yigiterturk-dev/terralot-v2) | GIS-oriented product engineering, underwriting workflows, and a multi-app real-estate monorepo | Public CI: 69/69 tests |
+| [EmlakAklı](https://github.com/yigiterturk-dev/emlakakli) | Real-estate intelligence with deterministic scoring, generated routes, and explicit data fallbacks | Public CI: 97/97 tests |
+| [Nocturn Suite](https://github.com/yigiterturk-dev/nocturndev) | Early-access product storytelling, canvas interaction, multi-page web craft, and fail-closed lead delivery | Public CI: 28/28 tests |
 
 Verification snapshot: 2026-08-16. ClinEntra, VoiceOps Studio, LLM Output Contract, ProofRepo, SecretProof, and Engineering Skills were reproduced locally using their documented validation commands. The three focused developer tools also completed public GitHub CI runs. The remaining counts come from current public CI; public CI remains the source of truth for pushed revisions.
 
@@ -33,4 +33,4 @@ Verification snapshot: 2026-08-16. ClinEntra, VoiceOps Studio, LLM Output Contra
 - Explicit distinctions between implemented behavior, demo adapters, proposed scope, and measured results.
 - Desktop/mobile visual evidence where interface quality is central to the case study.
 
-The current flagship is ClinEntra: an evidence-first clinical-trial intelligence pilot that keeps source provenance attached to operational review. Explore the projects above, view my [portfolio](https://moriana55.github.io/yigit-portfolio/), or reach me through [LinkedIn](https://www.linkedin.com/in/yigiterturk/).
+The current flagship is ClinEntra: an evidence-first clinical-trial intelligence pilot that keeps source provenance attached to operational review. Explore the projects above, view my [portfolio](https://yigiterturk-dev.github.io/yigit-portfolio/), or reach me through [LinkedIn](https://www.linkedin.com/in/yigiterturk/).
