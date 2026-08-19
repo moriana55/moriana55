@@ -1,7 +1,7 @@
 # Profile publication checklist
 
-- [ ] Restore `gh` authentication for `moriana55`.
-- [ ] Create the public repository `moriana55/moriana55`.
+- [ ] Restore `gh` authentication for `yigiterturk-dev`.
+- [ ] Create the public repository `yigiterturk-dev/yigiterturk-dev`.
 - [ ] Push this repository to `main`.
 - [ ] Publish `railway-control-plane`; replace “Publishing next” with its verified demo status.
 - [ ] Verify all six repository links and live URLs after publication.
